@@ -1,0 +1,1 @@
+../../grunt-google-js-test/tasks/google-js-test.js
